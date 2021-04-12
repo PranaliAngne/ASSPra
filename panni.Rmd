@@ -89,7 +89,7 @@ ggplot(plot2, aes(y = violent  , x = year, fill = violent)) + geom_point() +
 The above graph \@ref(fig:Figref2) explains, this analysis is similar to that of yearly murder analysis but here we see that procuring guns leads to more violence rather than death/murder. The year 1992 and 1993 records the highest number of violence occurred, but again there is a fall after a certain point of time. 
 
 
-# Tables 
+# Tables for analysis
 
 **TABLE: 1**
 
